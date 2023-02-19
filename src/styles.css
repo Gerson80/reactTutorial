@@ -1,3 +1,9 @@
+/*ste archivo define los estilos para su 
+aplicación React. Los dos primeros selectores de CSS ( *y body) 
+definen el estilo de gran parte de su aplicación, mientras que el .squareselector 
+define el estilo de cualquier componente donde la classNamepropiedad esté establecida
+ en square. En su código, eso coincidiría con el botón de su componente Square en el App.jsarchivo.*/
+
 * {
   box-sizing: border-box;
 }
